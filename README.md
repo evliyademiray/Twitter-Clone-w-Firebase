@@ -1,12 +1,20 @@
-# React + Vite
+# Twitter-X-Clone
+This is Twitter-X Clone project created by Firebase and React.
 
-# Authentication(Kimlik doğrulama)
-Bir kullanıcının kimliğini doğrulama sürecidir.
-Kullanıcı adı ve şifreleri alınarak yapılabilir
-Veya farklı doğrulama yöntemleri kullanılabilir
+-Be Able to sign in with email and Google account.
 
+-To sign in with google used GoogleAuthProvider
 
-# Authorization(Yetkilendirme)
-Bir kullanıcının sistemin kaynaklarına işlevlerine veya sayfalarına
-erişimine izin verme veya reddetme sürecidir.
-Yani kimlik doğrulama başarılı olduktan sonra kullanıcının ne kadar erişime sahip olacağını belirleme sürecidir.# Twitter-Clone-w-Firebase
+-Used React-Router-Dom, React-icons, Toastify,Moment and uuid libraries.
+
+-Used Moment libraries for timing of tweets
+
+-Used Firebase to create db.
+
+-Be able to send tweet and image.
+
+-Also have an edit button to edit your tweet and image, have delete button for delete, like button.
+
+-Also used TailwindCss for styling.
+
+-There is aside bar for count of tweets.
